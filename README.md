@@ -1,2 +1,2 @@
-Learning git with Syetch students
+Syetch students
 Hi there
