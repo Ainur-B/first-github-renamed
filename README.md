@@ -1,3 +1,3 @@
 Learning git with Syetch students
 Hi there
-Testing GitHub push
+This is Nurzhan's changes: Testing GitHub push
