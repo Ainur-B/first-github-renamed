@@ -1,1 +1,1 @@
-Test: Learning git with Syetch students
+Learning git with Syetch students
